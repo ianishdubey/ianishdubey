@@ -25,3 +25,5 @@
 
 <P>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ianishdubey&theme=dark)](https://git.io/streak-stats)</P>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ianishdubey)](https://git.io/streak-stats)
+
