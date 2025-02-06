@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianishdubey&label=Profile%20views&color=0e75b6&style=flat" alt="ianishdubey" /> </p>
 
-- 🌱 I’m currently learning **HTML, Javascript, CSS**
+- 🌱 I’m currently learning **DATA STRUCTURE AND ALGORITHM, JAVA, REACT JS, PHP**
 
 - 📫 How to reach me **anishdubey300@gmail.com**
 
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianishdubey&show_icons=true&locale=en" alt="ianishdubey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ianishdubey&theme=dark" alt="GitHub Streak" /></p>
+
