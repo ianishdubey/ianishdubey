@@ -23,4 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianishdubey&show_icons=true&locale=en" alt="ianishdubey" /></p>
 
+<P>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ianishdubey&theme=dark)](https://git.io/streak-stats)</P>
 
